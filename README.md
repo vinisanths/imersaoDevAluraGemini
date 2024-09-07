@@ -1,4 +1,4 @@
-<h1>🌿 FitPlant - O seu Banco de Dados de Plantas Fitoterápicas<h1>
+<h1>🌿 FitPlant - O seu Banco de Dados de Plantas Fitoterápicas🌿<h1>
 <br>Sobre o Projeto<br>
 Bem-vindo ao Banco de Dados de Plantas Medicinais!<br> 🌱 Este é o seu destino para descobrir tudo sobre plantas que podem ajudar na sua saúde e bem-estar. Quer saber para que serve aquela plantinha que sua avó sempre fala? Aqui você encontra!<br>
 <br>
