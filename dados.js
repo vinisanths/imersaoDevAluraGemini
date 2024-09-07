@@ -48,6 +48,56 @@ let plantas = [
         titulo: "Salsa",
         descricao: "A salsa é uma erva aromática muito utilizada na culinária e também possui propriedades medicinais. É conhecida por suas propriedades diuréticas, antioxidantes e anti-inflamatórias.",
         link: "https://www.tuasaude.com/salsa/"
+    },
+    {
+        titulo: "Orquídea",
+        descricao: "Conhecida por sua beleza exótica e variedade de cores, a orquídea é uma planta que exige cuidados especiais, mas que recompensa com suas flores exuberantes.",
+        link: "https://www.tuasaude.com/orquidea/"
+    },
+    {
+        titulo: "Jiboia",
+        descricao: "Uma planta pendente muito popular, ideal para decorar ambientes internos. A jiboia é resistente e fácil de cuidar, além de purificar o ar.",
+        link: "https://www.tuasaude.com/jiboia/"
+    },
+    {
+        titulo: "Espada de São Jorge",
+        descricao: "Conhecida por sua resistência e por trazer proteção ao lar, a espada de São Jorge é uma planta popular em muitas culturas. É ideal para ambientes com pouca luz.",
+        link: "https://www.tuasaude.com/espada-de-sao-jorge/"
+    },
+    {
+        titulo: "Cacto",
+        descricao: "Símbolo de resistência e força, os cactos são plantas suculentas que armazenam água em seus caules. Existem diversas espécies com diferentes formas e tamanhos.",
+        link: "https://www.tuasaude.com/cacto/"
+    },
+    {
+        titulo: "Violeta",
+        descricao: "Com suas flores delicadas e coloridas, a violeta é uma planta perfeita para decorar ambientes internos. Exige cuidados especiais com a luz e a umidade.",
+        link: "https://www.tuasaude.com/violeta/"
+    },
+    {
+        titulo: "Zamioculcas",
+        descricao: "Uma planta de interior muito resistente, a zamioculcas é ideal para quem busca uma planta que não requer muitos cuidados. Suas folhas brilhantes e formato elegante a tornam muito popular.",
+        link: "https://www.tuasaude.com/zamioculcas/"
+    },
+    {
+        titulo: "Avenca",
+        descricao: "Uma planta delicada e elegante, a avenca aprecia ambientes úmidos e sombreados. Suas folhas delicadas e frágeis exigem cuidados especiais.",
+        link: "https://www.tuasaude.com/avenca/"
+    },
+    {
+        titulo: "Comigo-ninguém-pode",
+        descricao: "Uma planta popularmente conhecida por afastar o mau olhado, a comigo-ninguém-pode é uma planta resistente e fácil de cuidar. Seus frutos vermelhos são tóxicos.",
+        link: "https://www.tuasaude.com/comigo-ninguem-pode/"
+    },
+    {
+        titulo: "Cheflera",
+        descricao: "Uma planta de interior muito versátil, a cheflera pode ser cultivada em vasos ou no jardim. Suas folhas grandes e brilhantes a tornam uma ótima opção para decorar ambientes.",
+        link: "https://www.tuasaude.com/cheflera/"
+    },
+    {
+        titulo: "Bonsai",
+        descricao: "A arte de cultivar árvores em miniatura, o bonsai exige paciência e dedicação. É uma ótima opção para quem busca um desafio e aprecia a beleza da natureza.",
+        link: "https://www.tuasaude.com/bonsai/"
     }
 
 ];
