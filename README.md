@@ -1,10 +1,13 @@
-<h1>🌿 FitPlant - O seu banco de Dados de Plantas Medicinais🌿<h1>
+<h1>🌿 FitPlant - O seu banco de Dados de Plantas Fitoterápicas<h1>
 <br>Sobre o Projeto<br>
-Bem-vindo ao Banco de Dados de Plantas Medicinais!<br> 🌱 Este é o seu destino para descobrir tudo sobre plantas que podem ajudar na sua saúde e bem-estar. Quer saber para que serve aquela plantinha que sua avó sempre fala? Aqui você encontra!
+Bem-vindo ao Banco de Dados de Plantas Medicinais!<br> 🌱 Este é o seu destino para descobrir tudo sobre plantas que podem ajudar na sua saúde e bem-estar. Quer saber para que serve aquela plantinha que sua avó sempre fala? Aqui você encontra!<br>
+
+Alguns dos exemplares presentes:<br>
+Camomila, Babosa, Hortelã, Alecrim, Lavanda, Manjericão, Capim-santo, Gengibre, Erva-cidreira, Salsa, dentre outros..
 
 Funcionalidades:<br> 
 🔍 Pesquisa Fácil: Encontre informações sobre plantas medicinais com uma busca rápida e prática.<br>
-📚 Detalhes Completos: Saiba mais sobre os usos, benefícios e estudos científicos de cada planta.<br>
+📚 Detalhes Completos: Saiba mais sobre os usos e benefícios de cada planta.<br>
 🌟 Contribua: Tem conhecimento sobre alguma planta? Adicione suas informações e ajude a comunidade!<br>
 
 
