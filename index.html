@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FitPlant</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="red-ginger-alpinia_7363766.ico">
+  </head>
+  <body>
+    <header>
+      <h1>Plantas Fitoterápicas</h1>
+    </header>
+    <main>
+      <section>
+        <input
+          type="text"
+          placeholder="Digite o nome da planta"
+          id="campo-pesquisa"
+        />
+        <button onclick="pesquisar()">Pesquisar</button>
+      </section>
+      <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
+    </main>
+    <footer>
+      <p>2024 - Plantas Fitoterápicas. Todos os direitos reservados</p>
+      <p>
+        Deseja adicionar mais exemplares a nosso banco de dados? <br />Entre em
+        contato pelo email: fitplantas@gmail.com
+      </p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
