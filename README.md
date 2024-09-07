@@ -10,6 +10,6 @@ Funcionalidades:<br>
 
 Tecnologias Utilizadas:<br>
 
-HTML5: Para estruturar nosso conteúdo de forma clara e acessível.<br>
-CSS3: Para deixar tudo bonito e responsivo.<br>
+HTML: Para estruturar nosso conteúdo de forma clara e acessível.<br>
+CSS: Para deixar tudo bonito e responsivo.<br>
 JavaScript: Para adicionar aquela interatividade que a gente adora.<br>
